@@ -1,0 +1,29 @@
+_repo: The-Doctrine-and-Practice-of-Yoga--13-Including-the-Practices-and-Exercises-of-Concentration-__13300
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Mukerji, A. P., swámi
+    alias: Mukerji, A. P., swami
+    gutenberg_agent_id: '4984'
+    url: http://www.gutenberg.org/2009/agents/4984
+description: ''
+gutenberg_bookshelf: Hinduism
+gutenberg_issued: '2004-08-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13300'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BF'
+- !lcsh 'Yoga'
+title: "The Doctrine and Practice of Yoga\r\nIncluding the Practices and Exercises\
+  \ of Concentration, both Objective and Subjective, and Active and Passive Mentation,\
+  \ an Elucidation of Maya, Guru Worship, and the Worship of the Terrible, also the\
+  \ Mystery of Will-Force"
+url: http://www.gutenberg.org/ebooks/13300
